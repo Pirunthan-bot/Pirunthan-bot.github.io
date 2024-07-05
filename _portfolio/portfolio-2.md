@@ -1,6 +1,6 @@
 ---
 title: "Mind The Gap: Analysing income desparities in New Zealand"
-excerpt: "An infographic analysing income desparity across various metrics<br/><img src='/images/Chatlog.png'>"
+excerpt: "An infographic analysing income desparity across various metrics<br/><img src='/images/Mindthegap.png'>"
 collection: portfolio
 ---
 
@@ -22,8 +22,8 @@ After linking to the API library, the following code is all you need to embed a 
 <style>
   #tableauViz {
     width: 100%;
-    max-width: 100%;
-    height: 80vh; /* Adjust this value based on the desired height relative to the viewport height */
+    height: 60vh; /* Adjust this value based on the desired height relative to the viewport height */
+    border: none; /* Optional: remove border if there's any */
   }
 </style>
 

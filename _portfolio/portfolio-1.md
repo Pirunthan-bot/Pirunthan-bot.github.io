@@ -24,8 +24,8 @@ After linking to the API library, the following code is all you need to embed a 
 <style>
   #tableauViz {
     width: 100%;
-    max-width: 100%;
     height: 70vh; /* Adjust this value based on the desired height relative to the viewport height */
+    border: none; /* Optional: remove border if there's any */
   }
 </style>
 
