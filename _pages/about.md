@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a dynamic professional with extensive experience in data analysis, manipulation, and visualization. My career is marked by a proven track record of delivering powerful insights and value to stakeholders through innovative data solutions. With a passion for leveraging technology to bridge the gap between business and technical realms, I aim to drive informed decision-making and strategic growth in every role I undertake.
+I am a data professional with extensive experience in data analysis, manipulation, and visualization. My career is marked by a proven track record of delivering powerful insights and value to stakeholders through innovative data solutions. With a passion for leveraging technology to bridge the gap between business and technical realms, I aim to drive informed decision-making and strategic growth in every role I undertake.
 
 I hold a Bachelor of Commerce and Bachelor of Laws conjoint degree from the University of Auckland, majoring in Information Systems, Operations, and Supply Chain Management. Additionally, I have earned certifications in Agile Fundamentals, Business Analysis, and ARIS Enterprise Architecture. These qualifications have equipped me with a robust foundation in both business and technology, enabling me to tackle complex challenges with a well-rounded perspective.
 
