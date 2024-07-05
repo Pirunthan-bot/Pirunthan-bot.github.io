@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Chatlog.png'>"
+title: "Facebook Messenger Analysis"
+excerpt: "Analysing facebook messenger chat data leveraging sentiment analysis<br/><img src='/images/Chatlog.png'>"
 collection: portfolio
 ---
 
@@ -25,7 +25,7 @@ After linking to the API library, the following code is all you need to embed a 
   #tableauViz {
     width: 100%;
     max-width: 100%;
-    height: 80vh; /* Adjust this value based on the desired height relative to the viewport height */
+    height: 70vh; /* Adjust this value based on the desired height relative to the viewport height */
   }
 </style>
 
