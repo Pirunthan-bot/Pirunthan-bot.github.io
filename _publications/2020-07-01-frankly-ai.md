@@ -2,7 +2,7 @@
 title: "Beca.AI: Real time insights"
 collection: publications
 permalink: /publication/2020-01-01-frankly-ai
-excerpt: 'This was a showcase of the realtime insights dashboards that were built as part of the frankly.ai project<br/><img src='/images/franklyai.png'>'
+excerpt: "This was a showcase of the realtime insights dashboards that were built as part of the frankly.ai project<br/><img src='/images/franklyai.png'>"
 date: 2020-07-01
 ---
 
