@@ -23,11 +23,17 @@ Qualification
 Work experience
 ======
 * **Air New Zealand**
-  * **Insights Analyst:** *2023 - Present*
+  * **Senior Reporting & Insights Analyst:** *2024 - Present*
+    * Utilized Power BI, Snowflake, and DBT to manipulate and analyze data, delivering critical insights.  
+    * Developed robust data models and set up automated refreshes, ensuring reliable and regular reporting.
+    * Standardized reporting practices and data governance within Chapter Area, fostering team consistency and alignment.
+    * Led the reporting minors’ program, enhancing collaboration and support for data-literate employees outside of the reporting and insights chapter.
+
+* **Air New Zealand**
+  * **Reporting & Insights Analyst:** *2023 - 2024*
     * Utilized Power BI, Snowflake, and DBT to manipulate and analyze data, delivering critical insights.  
     * Developed robust data models and set up automated refreshes, ensuring reliable and regular reporting.
     * Standardized reporting practices, fostering team consistency and alignment.
-    * Led the reporting minors’ program, enhancing collaboration and support for data-literate employees outside of the reporting and insights chapter.
 
 * **Worldline (Paymark)**
   * **Insights Analyst:** *2021 - 2023*
